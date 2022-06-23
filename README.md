@@ -3,7 +3,7 @@
 
 <div align = center>
 
-*I maintain **[MexStudio]** a maintainable version of **[TeXStudio]**.*
+*I maintain **[MexStudio]**, a maintainable version of **[TeXStudio]**.*
 
 </div>
   
